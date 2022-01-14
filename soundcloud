@@ -1,10 +1,10 @@
 #blocks soundcloud mobile and Windows Store App ads. These domains are ever-changing
 
-0.0.0.0 connect.facebook.net
-0.0.0.0 promoted.sndcdn.com
-0.0.0.0 soundcloud-pax.pandora.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 www.pandora.com
-0.0.0.0 cont-1.p-cdn.us
-0.0.0.0 www.wav.sndcdn
-0.0.0.0 wave.sndcdn.com
+connect.facebook.net
+promoted.sndcdn.com
+soundcloud-pax.pandora.com
+graph.facebook.com
+www.pandora.com
+cont-1.p-cdn.us
+www.wav.sndcdn
+wave.sndcdn.com
