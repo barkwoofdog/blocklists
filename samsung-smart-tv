@@ -1,5 +1,6 @@
 #Samsung Smart TV's phone home more than ET. this list is what i've compiled over time. What breaks stuff and what doesn't is always changing
-#Please not that on apps like Hulu and Youtube with in-stream ads cannot be blocked and blocking the domains will prevent the apps from working correctly
+#Please note that on apps like Hulu and Youtube with in-stream ads cannot be blocked and blocking the domains will prevent the apps from working correctly.
+#Hulu is by far the most affected by domain. blocking. issues like not being able to go to the next episode, or the app breaking after exiting a stream arise
 
 0.0.0.0 sso.internetat.tv	
 0.0.0.0 configprd.samsungcloudsolution.net	
