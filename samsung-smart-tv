@@ -1,1 +1,25 @@
+#Samsung Smart TV's phone home more than ET. this list is what i've compiled over time. What breaks stuff and what doesn't is always changing
+#Please not that on apps like Hulu and Youtube with in-stream ads cannot be blocked and blocking the domains will prevent the apps from working correctly
 
+0.0.0.0 sso.internetat.tv	
+0.0.0.0 configprd.samsungcloudsolution.net	
+0.0.0.0 cdn-stv.adgrx.com	
+0.0.0.0 acr0.samsungcloudsolution.com	
+0.0.0.0 osb.samsungqbe.com	
+0.0.0.0 config.samsungads.com	
+0.0.0.0 ib.huluim.com	
+0.0.0.0 gpm.samsungqbe.com	
+0.0.0.0 osb-ussvc.samsungqbe.com	
+0.0.0.0 sas.samsungcloudsolution.com
+0.0.0.0 static.doubleclick.net	
+0.0.0.0 musicid.samsungcloudsolution.com	
+0.0.0.0 osb-krsvc.samsungqbe.com	
+0.0.0.0 rtb.adgrx.com	
+0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net	
+0.0.0.0 ad.doubleclick.net	
+0.0.0.0 osb-apps.samsungqbe.com	
+0.0.0.0 lcprd1.samsungcloudsolution.net	
+0.0.0.0 tvx.adgrx.com	
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 awuse1.advanced-web-analytics.com	
+0.0.0.0 assets.adobedtm.com
