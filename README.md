@@ -10,5 +10,5 @@ In order to update your adlists
 You will NEED to add the raw version of the file or else your pihole will spit an error back at you. it does not like formatted pages very well
 
 Here are the links to what to add to your pihole 
-https://raw.githubusercontent.com/barkwoofdog/blocklists/main/samsung-smart-tv 
-https://raw.githubusercontent.com/barkwoofdog/blocklists/main/soundcloud
+- https://raw.githubusercontent.com/barkwoofdog/blocklists/main/samsung-smart-tv 
+- https://raw.githubusercontent.com/barkwoofdog/blocklists/main/soundcloud
