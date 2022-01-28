@@ -1,5 +1,5 @@
 # blocklists
-domains for pihole/dns blocking
+domains for pihole/dns/ip range blocking
 
 I have a personal vendetta against Samsung and Soundcloud so those will be included and updated as needed. 
 
