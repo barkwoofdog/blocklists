@@ -12,3 +12,4 @@ You will NEED to add the raw version of the file or else your pihole will spit a
 Here are the links to what to add to your pihole 
 - https://raw.githubusercontent.com/barkwoofdog/blocklists/main/samsung-smart-tv 
 - https://raw.githubusercontent.com/barkwoofdog/blocklists/main/soundcloud
+- https://raw.githubusercontent.com/barkwoofdog/blocklists/main/netgear-nighthawk-ap
