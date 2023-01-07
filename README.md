@@ -2,6 +2,7 @@
 domains for pihole/dns/ip range blocking
 
 I have a personal vendetta against Samsung and Soundcloud so those will be included and updated as needed.
+Netgear Nighthawk AP's also phone home all the time. I run mine in AP mode since I am using pfsense. Sends about 6K requests a day and is easily the highest on the blocked domain statistics.
 
 In order to update your adlists
 - Web Console: Group Management > Adlists > copy+paste URL and save CLI: "nano /etc/pihole/adlists.list" (maybe need sudo) 
