@@ -1,0 +1,14 @@
+# while i think a public whitelist is in theory a very silly and possibly dangerous prospect, here are all the domains i have in my whitelist/allowlist to let my users (family) browse the web without issue
+
+#soundcloud
+api-mobile.soundcloud.com
+cont-1.p-cdn.us
+
+#video streaming services
+vortex.hulu.com
+doppler.hulu.com
+dpm.demdex.net
+cws-hulu.conviva.com
+assets.huluim.com
+saa.paramountplus.com
+tags.tiqcdn.com
