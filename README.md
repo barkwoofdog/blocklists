@@ -2,6 +2,8 @@
 These are lists of domains I have compiled to be added to pihole (mainly) or whatever DNS blackhole solution that you use.
 
 I have a personal vendetta against Samsung and Soundcloud so those will be included and updated as needed.
+(dog from 2025: Soundcloud wised up and added server-side ads it would seem. The list can just block out the ad loading while the timer progresses)
+
 Netgear Nighthawk AP's also phone home all the time. I run mine in AP mode since I am using pfsense. Sends about 6K requests a day and is easily the highest on the blocked domain statistics.
 
 ## Steps to Update Your Blocklist 
