@@ -14,4 +14,6 @@ Here are the links to what to add to your pihole
 - https://raw.githubusercontent.com/barkwoofdog/blocklists/main/samsung-smart-tv 
 - https://raw.githubusercontent.com/barkwoofdog/blocklists/main/soundcloud
 - https://raw.githubusercontent.com/barkwoofdog/blocklists/main/netgear-nighthawk-ap
+
+Allowlist - NOT RECOMMENDED TO ADD TO GRAVITY UPDATE
 - https://raw.githubusercontent.com/barkwoofdog/blocklists/refs/heads/main/whitelist
